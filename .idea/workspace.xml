@@ -1,158 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f3bfca3-6a62-46bf-a4a3-5a39cfeecc16" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Keyboard.ui" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Test2.ui" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/0441ea5619b979bde781aa040943c208.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/0Bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/1Bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/2Bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/3Bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/3d-printer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/4Bars.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/FeedRate.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/FeedRate_Selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/File.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Motion.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Motion_Selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Nozzle Offset Icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Nozzle Offset.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Nozzle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleActive.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleSelect.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleSelect_0.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleSelect_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/PrintBase.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Spool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Spool_Selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/WIFI-Icon.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/activeNozzle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/stop-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/back-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/back.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/backspace-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/bed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/blank-check-box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/cancel.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/caps-lock-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/cart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/changeFilament.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/changeFilament2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/check-box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/check-mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/chevron-pointing-to-the-left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/computer-fan-square-tool.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/delete.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/download.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/earth-globe.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/exclamation-mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/fan-black-silhouette-off.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/fan-black-silhouette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/filamentSensorOff.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/filamentSensorOn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/folder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/fracktal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/heightCaliberation.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/home-icon-silhouette.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/house.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/information.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/list.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/load.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/loader1.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/lockCenter.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/lockLeft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/lockRight.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/magic-wand.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/menu.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/motor.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/network.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/next-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/next.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/pause-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/pause.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/pie-chart.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/play-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/play.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/printer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/printer2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/reload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/remove.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/right-chevron.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/settings-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/settings.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/snowflake.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/splash.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/stop-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/stop.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/success.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/thermometer.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/thermometer_Selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/unload.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/unlockAll.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/unlockLeft.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/update-arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/usb.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/verification-mark.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/video-player-stop-button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/wifi-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/wifi-signal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/wifi.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Julia3GTouchUI.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MANIFEST.in" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/babel.cfg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mainGUI.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/octoprint_Julia3GTouchUI.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/README.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoardFunc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/setup.py" />
-    </list>
+    <list default="true" id="5f3bfca3-6a62-46bf-a4a3-5a39cfeecc16" name="Default" comment="" />
     <ignored path="Julia3GTouchUI.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -228,8 +77,8 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="1847" column="0" selection-start-line="1847" selection-start-column="0" selection-end-line="1847" selection-end-column="0" />
+            <state relative-caret-position="315">
+              <caret line="1831" column="98" selection-start-line="1831" selection-start-column="98" selection-end-line="1831" selection-end-column="98" />
               <folding>
                 <element signature="e#287#318#0" expanded="true" />
                 <element signature="e#800#2171#1" expanded="false" />
@@ -479,17 +328,6 @@
                 <element signature="e#90009#90013#0" expanded="false" />
                 <element signature="e#90051#90055#0" expanded="false" />
                 <element signature="e#90100#90104#0" expanded="false" />
-                <element signature="e#90152#91716#0" expanded="false" />
-                <element signature="e#90180#90249#0" expanded="false" />
-                <element signature="e#90481#91634#0" expanded="false" />
-                <element signature="e#90554#91509#0" expanded="false" />
-                <element signature="e#90593#90701#0" expanded="false" />
-                <element signature="e#91100#91252#0" expanded="false" />
-                <element signature="e#91143#91252#0" expanded="false" />
-                <element signature="e#91546#91634#0" expanded="false" />
-                <element signature="e#91763#92335#0" expanded="false" />
-                <element signature="e#91809#91899#0" expanded="false" />
-                <element signature="e#91929#92335#0" expanded="false" />
                 <element signature="e#92389#93848#0" expanded="false" />
                 <element signature="e#92417#92464#0" expanded="false" />
                 <element signature="e#92493#92839#0" expanded="false" />
@@ -1178,17 +1016,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
@@ -1477,17 +1304,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
@@ -1809,17 +1625,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
@@ -2141,17 +1946,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
@@ -2473,17 +2267,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
@@ -2805,17 +2588,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
@@ -2944,8 +2716,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="1847" column="0" selection-start-line="1847" selection-start-column="0" selection-end-line="1847" selection-end-column="0" />
+        <state relative-caret-position="315">
+          <caret line="1831" column="98" selection-start-line="1831" selection-start-column="98" selection-end-line="1831" selection-end-column="98" />
           <folding>
             <element signature="e#287#318#0" expanded="true" />
             <element signature="e#800#2171#1" expanded="false" />
@@ -3195,17 +2967,6 @@
             <element signature="e#90009#90013#0" expanded="false" />
             <element signature="e#90051#90055#0" expanded="false" />
             <element signature="e#90100#90104#0" expanded="false" />
-            <element signature="e#90152#91716#0" expanded="false" />
-            <element signature="e#90180#90249#0" expanded="false" />
-            <element signature="e#90481#91634#0" expanded="false" />
-            <element signature="e#90554#91509#0" expanded="false" />
-            <element signature="e#90593#90701#0" expanded="false" />
-            <element signature="e#91100#91252#0" expanded="false" />
-            <element signature="e#91143#91252#0" expanded="false" />
-            <element signature="e#91546#91634#0" expanded="false" />
-            <element signature="e#91763#92335#0" expanded="false" />
-            <element signature="e#91809#91899#0" expanded="false" />
-            <element signature="e#91929#92335#0" expanded="false" />
             <element signature="e#92389#93848#0" expanded="false" />
             <element signature="e#92417#92464#0" expanded="false" />
             <element signature="e#92493#92839#0" expanded="false" />
