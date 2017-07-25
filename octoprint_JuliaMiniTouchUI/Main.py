@@ -1170,70 +1170,6 @@ class MainUiClass(QtGui.QMainWindow, mainGUI.Ui_MainWindow):
         self.tool0ActualTemperature.setText(str(temperature['tool0Actual']))  # + unichr(176)
         self.tool0TargetTemperature.setText(str(temperature['tool0Target']))
 
-        if temperature['tool1Target'] == 0:
-            self.tool1TempBar.setMaximum(300)
-            self.tool1TempBar.setStyleSheet(_fromUtf8("QProgressBar::chunk {\n"
-                                                      "    border-radius: 5px;\n"
-                                                      "    background-color: qlineargradient(spread:pad, x1:0.517, y1:0, x2:0.522, y2:0, stop:0.0336134 rgba(74, 183, 255, 255), stop:1 rgba(53, 173, 242, 255));\n"
-                                                      "}\n"
-                                                      "\n"
-                                                      "QProgressBar {\n"
-                                                      "    border: 1px solid white;\n"
-                                                      "    border-radius: 5px;\n"
-                                                      "}\n"
-                                                      ""))
-        elif temperature['tool1Actual'] <= temperature['tool0Target']:
-            self.tool1TempBar.setMaximum(temperature['tool0Target'])
-            self.tool1TempBar.setStyleSheet(_fromUtf8("QProgressBar::chunk {\n"
-                                                      "\n"
-                                                      "    background-color: qlineargradient(spread:pad, x1:0.492, y1:0, x2:0.487, y2:0, stop:0 rgba(255, 28, 35, 255), stop:1 rgba(255, 68, 74, 255));\n"
-                                                      "    border-radius: 5px;\n"
-                                                      "\n"
-                                                      "}\n"
-                                                      "\n"
-                                                      "QProgressBar {\n"
-                                                      "    border: 1px solid white;\n"
-                                                      "    border-radius: 5px;\n"
-                                                      "}\n"
-                                                      ""))
-        else:
-            self.tool1TempBar.setMaximum(temperature['tool1Actual'])
-        self.tool1TempBar.setValue(temperature['tool1Actual'])
-        self.tool1ActualTemperature.setText(str(temperature['tool1Actual']))  # + unichr(176)
-        self.tool1TargetTemperature.setText(str(temperature['tool1Target']))
-
-        if temperature['bedTarget'] == 0:
-            self.bedTempBar.setMaximum(150)
-            self.bedTempBar.setStyleSheet(_fromUtf8("QProgressBar::chunk {\n"
-                                                    "    border-radius: 5px;\n"
-                                                    "    background-color: qlineargradient(spread:pad, x1:0.517, y1:0, x2:0.522, y2:0, stop:0.0336134 rgba(74, 183, 255, 255), stop:1 rgba(53, 173, 242, 255));\n"
-                                                    "}\n"
-                                                    "\n"
-                                                    "QProgressBar {\n"
-                                                    "    border: 1px solid white;\n"
-                                                    "    border-radius: 5px;\n"
-                                                    "}\n"
-                                                    ""))
-        elif temperature['bedActual'] <= temperature['bedTarget']:
-            self.bedTempBar.setMaximum(temperature['bedTarget'])
-            self.bedTempBar.setStyleSheet(_fromUtf8("QProgressBar::chunk {\n"
-                                                    "\n"
-                                                    "    background-color: qlineargradient(spread:pad, x1:0.492, y1:0, x2:0.487, y2:0, stop:0 rgba(255, 28, 35, 255), stop:1 rgba(255, 68, 74, 255));\n"
-                                                    "    border-radius: 5px;\n"
-                                                    "\n"
-                                                    "}\n"
-                                                    "\n"
-                                                    "QProgressBar {\n"
-                                                    "    border: 1px solid white;\n"
-                                                    "    border-radius: 5px;\n"
-                                                    "}\n"
-                                                    ""))
-        else:
-            self.bedTempBar.setMaximum(temperature['bedActual'])
-        self.bedTempBar.setValue(temperature['bedActual'])
-        self.bedActualTemperatute.setText(str(temperature['bedActual']))  # + unichr(176))
-        self.bedTargetTemperature.setText(str(temperature['bedTarget']))  # + unichr(176))
-
         # updates the progress bar on the change filament screen
         if self.changeFilamentHeatingFlag:
             if self.activeExtruder == 0:
@@ -1796,8 +1732,6 @@ class QtWebsocket(QtCore.QThread):
 
             if data["current"]["messages"]:
                 for item in data["current"]["messages"]:
-                    if 'Active Extruder' in item:  # can get thris throught the positionUpdate event
-                        self.emit(QtCore.SIGNAL('ACTIVE_EXTRUDER'), item[-1])
                     if 'M206' in item:
                         self.emit(QtCore.SIGNAL('Z_HOME_OFFSET'), item[item.index('Z') + 1:].split(' ', 1)[0])
                     if 'Count' in item:  # can get thris throught the positionUpdate event

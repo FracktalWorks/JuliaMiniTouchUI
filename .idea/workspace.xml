@@ -2,148 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f3bfca3-6a62-46bf-a4a3-5a39cfeecc16" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/octoprint_Julia3GTouchUI.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Keyboard.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Test2.ui" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/__init__.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/tests.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoardFunc.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/0441ea5619b979bde781aa040943c208.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/0Bars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/1Bars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/2Bars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/3Bars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/3d-printer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/4Bars.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/FeedRate.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/FeedRate_Selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/File.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Motion.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Motion_Selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Nozzle Offset Icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Nozzle Offset.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Nozzle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleActive.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleSelect.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleSelect_0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/NozzleSelect_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/PrintBase.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Spool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/Spool_Selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/WIFI-Icon.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/activeNozzle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/stop-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/arrows/stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/back-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/backspace-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/bed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/blank-check-box.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/caps-lock-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/changeFilament.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/changeFilament2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/check-box.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/check-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/chevron-pointing-to-the-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/computer-fan-square-tool.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/delete.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/download.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/earth-globe.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/error.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/exclamation-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/fan-black-silhouette-off.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/fan-black-silhouette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/filamentSensorOff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/filamentSensorOn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/folder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/fracktal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/heightCaliberation.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/home-icon-silhouette.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/house.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/list.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/load.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/loader1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/lockCenter.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/lockLeft.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/lockRight.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/magic-wand.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/menu.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/motor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/network.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/next-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/pause-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/pie-chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/play-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/play.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/printer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/printer2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/reload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/right-chevron.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/settings-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/settings.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/snowflake.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/splash.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/stop-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/success.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/thermometer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/thermometer_Selected.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/unload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/unlockAll.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/unlockLeft.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/update-arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/usb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/verification-mark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/video-player-stop-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/wifi-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/wifi-signal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/octoprint_Julia3GTouchUI/templates/img/wifi.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Test2.ui" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Test2.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py" />
     </list>
     <ignored path="Julia3GTouchUI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -183,21 +44,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="1783" column="0" selection-start-line="1783" selection-start-column="0" selection-end-line="1783" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="1152" column="70" selection-start-line="1152" selection-start-column="70" selection-end-line="1152" selection-end-column="70" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="octoprintAPI.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mainGUI.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="481" column="32" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="octoprintAPI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="616" column="40" selection-start-line="616" selection-start-column="40" selection-end-line="616" selection-end-column="40" />
+            <state relative-caret-position="459">
+              <caret line="625" column="66" selection-start-line="625" selection-start-column="66" selection-end-line="625" selection-end-column="66" />
               <folding />
             </state>
           </provider>
@@ -232,16 +103,16 @@
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py" />
-        <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" />
         <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py" />
+        <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
+    <option name="x" value="-2891" />
     <option name="y" value="-11" />
-    <option name="width" value="1942" />
-    <option name="height" value="1056" />
+    <option name="width" value="2902" />
+    <option name="height" value="1597" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -548,13 +419,13 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="1942" height="1056" extended-state="6" />
+    <frame x="-2891" y="-11" width="2902" height="1597" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17291667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.115277775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49530515" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3029433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -607,14 +478,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="42" column="93" selection-start-line="42" selection-start-column="93" selection-end-line="42" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -955,18 +818,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py">
+    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="1783" column="0" selection-start-line="1783" selection-start-column="0" selection-end-line="1783" selection-end-column="0" />
+        <state relative-caret-position="459">
+          <caret line="625" column="66" selection-start-line="625" selection-start-column="66" selection-end-line="625" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py">
+    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="616" column="40" selection-start-line="616" selection-start-column="40" selection-end-line="616" selection-end-column="40" />
+        <state relative-caret-position="146">
+          <caret line="481" column="32" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="1152" column="70" selection-start-line="1152" selection-start-column="70" selection-end-line="1152" selection-end-column="70" />
           <folding />
         </state>
       </provider>

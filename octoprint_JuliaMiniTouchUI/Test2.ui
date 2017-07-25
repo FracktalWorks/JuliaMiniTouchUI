@@ -173,7 +173,7 @@ QStatusBar::item {
 background-color: rgb(40, 40, 40);</string>
     </property>
     <property name="currentIndex">
-     <number>0</number>
+     <number>1</number>
     </property>
     <widget class="QWidget" name="loadingPage">
      <widget class="QLabel" name="LoadingLabel">
@@ -516,80 +516,6 @@ background-color: rgba(255, 255, 255, 0);</string>
        <string>Time Left:</string>
       </property>
      </widget>
-     <widget class="QProgressBar" name="bedTempBar">
-      <property name="geometry">
-       <rect>
-        <x>230</x>
-        <y>50</y>
-        <width>16</width>
-        <height>71</height>
-       </rect>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">QProgressBar::chunk {
-    border-radius: 5px;
-	background-color: qlineargradient(spread:pad, x1:0.517, y1:0, x2:0.522, y2:0, stop:0.0336134 rgba(74, 183, 255, 255), stop:1 rgba(53, 173, 242, 255));
-}
-
-QProgressBar {
-    border: 1px solid white;
-    border-radius: 5px;
-}
-</string>
-      </property>
-      <property name="maximum">
-       <number>300</number>
-      </property>
-      <property name="value">
-       <number>10</number>
-      </property>
-      <property name="alignment">
-       <set>Qt::AlignCenter</set>
-      </property>
-      <property name="textVisible">
-       <bool>false</bool>
-      </property>
-      <property name="orientation">
-       <enum>Qt::Vertical</enum>
-      </property>
-      <property name="format">
-       <string>%v</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="bedLabel">
-      <property name="geometry">
-       <rect>
-        <x>175</x>
-        <y>65</y>
-        <width>41</width>
-        <height>41</height>
-       </rect>
-      </property>
-      <property name="font">
-       <font>
-        <family>Gotham Medium</family>
-        <pointsize>14</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
-        <underline>false</underline>
-        <strikeout>false</strikeout>
-       </font>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">
-   color:  white;
-background-color: rgba(255, 255, 255, 0);</string>
-      </property>
-      <property name="text">
-       <string/>
-      </property>
-      <property name="pixmap">
-       <pixmap>templates/img/bed.png</pixmap>
-      </property>
-      <property name="scaledContents">
-       <bool>true</bool>
-      </property>
-     </widget>
      <widget class="QLabel" name="tool0TargetTemperature">
       <property name="geometry">
        <rect>
@@ -686,62 +612,6 @@ background-color: rgba(0, 0, 0, 0);</string>
        <string>0</string>
       </property>
      </widget>
-     <widget class="QLabel" name="bedActualTemperatute">
-      <property name="geometry">
-       <rect>
-        <x>180</x>
-        <y>110</y>
-        <width>70</width>
-        <height>21</height>
-       </rect>
-      </property>
-      <property name="font">
-       <font>
-        <family>Gotham Medium</family>
-        <pointsize>11</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
-        <underline>false</underline>
-        <strikeout>false</strikeout>
-       </font>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">
-   color:  white;
-background-color: rgba(0, 0, 0, 0);</string>
-      </property>
-      <property name="text">
-       <string>0</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="bedTargetTemperature">
-      <property name="geometry">
-       <rect>
-        <x>180</x>
-        <y>40</y>
-        <width>70</width>
-        <height>21</height>
-       </rect>
-      </property>
-      <property name="font">
-       <font>
-        <family>Gotham Medium</family>
-        <pointsize>9</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
-        <underline>false</underline>
-        <strikeout>false</strikeout>
-       </font>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">
-   color:  white;
-background-color: rgba(255, 255, 255, 0);</string>
-      </property>
-      <property name="text">
-       <string>0</string>
-      </property>
-     </widget>
      <widget class="QPushButton" name="menuButton">
       <property name="geometry">
        <rect>
@@ -831,7 +701,7 @@ QPushButton:focus {
        <string/>
       </property>
       <property name="pixmap">
-       <pixmap>templates/img/printer2.png</pixmap>
+       <pixmap>templates/img/thumbnail.png</pixmap>
       </property>
       <property name="scaledContents">
        <bool>true</bool>
@@ -1051,7 +921,7 @@ QPushButton:focus {
      <widget class="QLabel" name="celciusLabel">
       <property name="geometry">
        <rect>
-        <x>260</x>
+        <x>90</x>
         <y>40</y>
         <width>70</width>
         <height>21</height>
@@ -1074,135 +944,6 @@ background-color: rgba(255, 255, 255, 0);</string>
       </property>
       <property name="text">
        <string>°C</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="tool1TargetTemperature">
-      <property name="geometry">
-       <rect>
-        <x>95</x>
-        <y>40</y>
-        <width>70</width>
-        <height>21</height>
-       </rect>
-      </property>
-      <property name="font">
-       <font>
-        <family>Gotham Medium</family>
-        <pointsize>9</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
-        <underline>false</underline>
-        <strikeout>false</strikeout>
-       </font>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">
-   color:  white;
-background-color: rgba(255, 255, 255, 0);</string>
-      </property>
-      <property name="text">
-       <string>0</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="tool1Label">
-      <property name="geometry">
-       <rect>
-        <x>95</x>
-        <y>68</y>
-        <width>31</width>
-        <height>31</height>
-       </rect>
-      </property>
-      <property name="font">
-       <font>
-        <family>Gotham Medium</family>
-        <pointsize>14</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
-        <underline>false</underline>
-        <strikeout>false</strikeout>
-       </font>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">
-   color:  white;</string>
-      </property>
-      <property name="text">
-       <string/>
-      </property>
-      <property name="pixmap">
-       <pixmap>templates/img/Nozzle.png</pixmap>
-      </property>
-      <property name="scaledContents">
-       <bool>true</bool>
-      </property>
-     </widget>
-     <widget class="QProgressBar" name="tool1TempBar">
-      <property name="geometry">
-       <rect>
-        <x>140</x>
-        <y>50</y>
-        <width>16</width>
-        <height>71</height>
-       </rect>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">QProgressBar::chunk {
-    border-radius: 5px;
-	background-color: qlineargradient(spread:pad, x1:0.517, y1:0, x2:0.522, y2:0, stop:0.0336134 rgba(74, 183, 255, 255), stop:1 rgba(53, 173, 242, 255));
-}
-
-QProgressBar {
-    border: 1px solid white;
-    border-radius: 5px;
-}
-</string>
-      </property>
-      <property name="maximum">
-       <number>300</number>
-      </property>
-      <property name="value">
-       <number>200</number>
-      </property>
-      <property name="alignment">
-       <set>Qt::AlignCenter</set>
-      </property>
-      <property name="textVisible">
-       <bool>false</bool>
-      </property>
-      <property name="orientation">
-       <enum>Qt::Vertical</enum>
-      </property>
-      <property name="format">
-       <string>%v</string>
-      </property>
-     </widget>
-     <widget class="QLabel" name="tool1ActualTemperature">
-      <property name="geometry">
-       <rect>
-        <x>90</x>
-        <y>110</y>
-        <width>71</width>
-        <height>18</height>
-       </rect>
-      </property>
-      <property name="font">
-       <font>
-        <family>Gotham Medium</family>
-        <pointsize>11</pointsize>
-        <weight>50</weight>
-        <bold>false</bold>
-        <underline>false</underline>
-        <strikeout>false</strikeout>
-       </font>
-      </property>
-      <property name="styleSheet">
-       <string notr="true">
-   color:  white;
-background-color: rgba(0, 0, 0, 0);</string>
-      </property>
-      <property name="text">
-       <string>0</string>
       </property>
      </widget>
      <widget class="QLabel" name="statusBar">
@@ -1245,13 +986,9 @@ background-color: rgba(0, 0, 0, 0);</string>
      <zorder>fileName</zorder>
      <zorder>printTime</zorder>
      <zorder>timeLeftLabel</zorder>
-     <zorder>bedTempBar</zorder>
-     <zorder>bedLabel</zorder>
      <zorder>tool0TempBar</zorder>
      <zorder>tool0ActualTemperature</zorder>
      <zorder>tool0TargetTemperature</zorder>
-     <zorder>bedActualTemperatute</zorder>
-     <zorder>bedTargetTemperature</zorder>
      <zorder>menuButton</zorder>
      <zorder>timeLeft</zorder>
      <zorder>controlButton</zorder>
@@ -1259,10 +996,6 @@ background-color: rgba(0, 0, 0, 0);</string>
      <zorder>printerStatus</zorder>
      <zorder>printerStatusColour</zorder>
      <zorder>celciusLabel</zorder>
-     <zorder>tool1TargetTemperature</zorder>
-     <zorder>tool1Label</zorder>
-     <zorder>tool1TempBar</zorder>
-     <zorder>tool1ActualTemperature</zorder>
     </widget>
     <widget class="QWidget" name="MenuPage">
      <widget class="QPushButton" name="menuBackButton">
