@@ -1781,10 +1781,6 @@ class QtWebsocket(QtCore.QThread):
         if "event" in data:
             if data["event"]["type"] == "Connected":
                 self.emit(QtCore.SIGNAL('CONNECTED'))
-        if "plugin" in data:
-            if data["plugin"]["plugin"] == 'Julia3GFilamentSensor':
-                if data["plugin"]["data"]["status_value"] == 'error':
-                    self.emit(QtCore.SIGNAL('FILAMENT_SENSOR_TRIGGERED'))
 
             elif data["plugin"]["plugin"] == 'softwareupdate':
                 if data["plugin"]["data"]["type"] == "updating":

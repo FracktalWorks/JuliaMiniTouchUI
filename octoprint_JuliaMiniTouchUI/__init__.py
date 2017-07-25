@@ -32,8 +32,7 @@ import octoprint.plugin
 # 			self.is_running = False
 
 
-class Julia3GTouchUI(octoprint.plugin.StartupPlugin,
-					 octoprint.plugin.SettingsPlugin):
+class JuliaMiniTouchUI(octoprint.plugin.StartupPlugin):
 	def on_after_startup(self):
 		# self.resetInetrval = int(self._settings.get(["resetInetrval"]))
 		self._logger.info("TouchUI Plugin Started")
@@ -59,8 +58,8 @@ class Julia3GTouchUI(octoprint.plugin.StartupPlugin,
 
 	def get_update_information(self):
 		return dict(
-			Julia3GTouchUI=dict(
-				displayName="Julia3GTouchUI",
+			JuliaMiniTouchUI=dict(
+				displayName="JuliaMiniTouchUI",
 				displayVersion=self._plugin_version,
 				# version check: github repository
 				type="github_release",
@@ -74,13 +73,13 @@ class Julia3GTouchUI(octoprint.plugin.StartupPlugin,
 		)
 
 
-__plugin_name__ = "Julia3GTouchUI"
+__plugin_name__ = "JuliaMiniTouchUI"
 __plugin_version__ = "1.0.0"
 
 
 def __plugin_load__():
 	global __plugin_implementation__
-	__plugin_implementation__ = Julia3GTouchUI()
+	__plugin_implementation__ = JuliaMiniTouchUI()
 
 	global __plugin_hooks__
 	__plugin_hooks__ = {
