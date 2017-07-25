@@ -1818,23 +1818,12 @@ class QtWebsocket(QtCore.QThread):
                 self.emit(QtCore.SIGNAL('PRINT_STATUS'), None)
 
             if data["current"]["temps"]:
-                if "tool1" not in data["current"]["temps"][0]:
-                    data["current"]["temps"][0]["tool1"] = {"actual" : 0}
-                    data["current"]["temps"][0]["tool1"] = {"target" : 0}
                 try:
                     temperatures = {'tool0Actual': data["current"]["temps"][0]["tool0"]["actual"],
-                                    'tool0Target': data["current"]["temps"][0]["tool0"]["target"],
-                                    'tool1Actual': data["current"]["temps"][0]["tool1"]["actual"],
-                                    'tool1Target': data["current"]["temps"][0]["tool1"]["target"],
-                                    'bedActual': data["current"]["temps"][0]["bed"]["actual"],
-                                    'bedTarget': data["current"]["temps"][0]["bed"]["target"]}
+                                    'tool0Target': data["current"]["temps"][0]["tool0"]["target"]}
                 except KeyError:
                     temperatures = {'tool0Actual': data["current"]["temps"][0]["tool0"]["actual"],
-                                    'tool0Target': data["current"]["temps"][0]["tool0"]["target"],
-                                    'tool1Actual': 0,
-                                    'tool1Target': 0,
-                                    'bedActual': data["current"]["temps"][0]["bed"]["actual"],
-                                    'bedTarget': data["current"]["temps"][0]["bed"]["target"]}
+                                    'tool0Target': data["current"]["temps"][0]["tool0"]["target"]}
                 self.emit(QtCore.SIGNAL('TEMPERATURES'), temperatures)
 
     def on_open(self, ws):
