@@ -2601,7 +2601,7 @@ class Ui_MainWindow(object):
         self.fileListLocalPage = QtGui.QWidget()
         self.fileListLocalPage.setObjectName(_fromUtf8("fileListLocalPage"))
         self.fileListWidget = QtGui.QListWidget(self.fileListLocalPage)
-        self.fileListWidget.setGeometry(QtCore.QRect(0, 0, 311, 321))
+        self.fileListWidget.setGeometry(QtCore.QRect(10, 0, 311, 321))
         font = QtGui.QFont()
         font.setFamily(_fromUtf8("Gotham"))
         font.setPointSize(17)
@@ -5174,7 +5174,7 @@ class Ui_MainWindow(object):
         MainWindow.setCentralWidget(self.mainApplication)
 
         self.retranslateUi(MainWindow)
-        self.stackedWidget.setCurrentIndex(0)
+        self.stackedWidget.setCurrentIndex(17)
         self.controlTabWidget.setCurrentIndex(3)
         QtCore.QMetaObject.connectSlotsByName(MainWindow)
 
