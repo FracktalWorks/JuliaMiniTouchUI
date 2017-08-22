@@ -362,7 +362,7 @@ QPushButton:focus {
      <widget class="QLabel" name="tool0Label">
       <property name="geometry">
        <rect>
-        <x>10</x>
+        <x>40</x>
         <y>68</y>
         <width>31</width>
         <height>31</height>
@@ -395,7 +395,7 @@ QPushButton:focus {
      <widget class="QLabel" name="FileNameLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>170</y>
         <width>70</width>
         <height>21</height>
@@ -419,7 +419,7 @@ QPushButton:focus {
      <widget class="QLabel" name="printTimeLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>190</y>
         <width>111</width>
         <height>21</height>
@@ -443,7 +443,7 @@ QPushButton:focus {
      <widget class="QLabel" name="fileName">
       <property name="geometry">
        <rect>
-        <x>40</x>
+        <x>50</x>
         <y>170</y>
         <width>211</width>
         <height>21</height>
@@ -472,7 +472,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="printTime">
       <property name="geometry">
        <rect>
-        <x>100</x>
+        <x>110</x>
         <y>190</y>
         <width>181</width>
         <height>21</height>
@@ -495,7 +495,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="timeLeftLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>210</y>
         <width>181</width>
         <height>21</height>
@@ -519,7 +519,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="tool0TargetTemperature">
       <property name="geometry">
        <rect>
-        <x>10</x>
+        <x>40</x>
         <y>40</y>
         <width>70</width>
         <height>21</height>
@@ -547,7 +547,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QProgressBar" name="tool0TempBar">
       <property name="geometry">
        <rect>
-        <x>60</x>
+        <x>80</x>
         <y>50</y>
         <width>16</width>
         <height>71</height>
@@ -587,7 +587,7 @@ QProgressBar {
      <widget class="QLabel" name="tool0ActualTemperature">
       <property name="geometry">
        <rect>
-        <x>5</x>
+        <x>35</x>
         <y>110</y>
         <width>71</width>
         <height>18</height>
@@ -763,7 +763,7 @@ QProgressBar {
      <widget class="QLabel" name="timeLeft">
       <property name="geometry">
        <rect>
-        <x>100</x>
+        <x>110</x>
         <y>210</y>
         <width>181</width>
         <height>21</height>
@@ -789,7 +789,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="printerStatus">
       <property name="geometry">
        <rect>
-        <x>30</x>
+        <x>40</x>
         <y>0</y>
         <width>381</width>
         <height>31</height>
@@ -890,7 +890,7 @@ QPushButton:focus {
      <widget class="QLabel" name="printerStatusColour">
       <property name="geometry">
        <rect>
-        <x>5</x>
+        <x>15</x>
         <y>6</y>
         <width>21</width>
         <height>21</height>
@@ -921,7 +921,7 @@ QPushButton:focus {
      <widget class="QLabel" name="celciusLabel">
       <property name="geometry">
        <rect>
-        <x>90</x>
+        <x>120</x>
         <y>40</y>
         <width>70</width>
         <height>21</height>
@@ -1444,7 +1444,7 @@ QScrollBar::down-arrow:vertical {
         <rect>
          <x>0</x>
          <y>0</y>
-         <width>478</width>
+         <width>398</width>
          <height>560</height>
         </rect>
        </property>
@@ -2377,7 +2377,7 @@ QCheckBox::indicator:unchecked {
      <widget class="QLabel" name="hostnameLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>0</y>
         <width>201</width>
         <height>31</height>
@@ -2402,7 +2402,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="hostname">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>22</y>
         <width>481</width>
         <height>51</height>
@@ -2427,7 +2427,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="wifiIpLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>90</y>
         <width>301</width>
         <height>31</height>
@@ -2452,7 +2452,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="wifiIp">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>110</y>
         <width>481</width>
         <height>51</height>
@@ -2477,7 +2477,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="lanIpLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>170</y>
         <width>301</width>
         <height>31</height>
@@ -2502,7 +2502,7 @@ background-color: rgba(255, 255, 255, 0);</string>
      <widget class="QLabel" name="lanIp">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>190</y>
         <width>481</width>
         <height>51</height>
@@ -2929,7 +2929,7 @@ p, li { white-space: pre-wrap; }
      <widget class="QLabel" name="caliberateLabel">
       <property name="geometry">
        <rect>
-        <x>10</x>
+        <x>20</x>
         <y>20</y>
         <width>231</width>
         <height>31</height>
@@ -3164,9 +3164,9 @@ border: 1px solid green;</string>
      <widget class="QLabel" name="caliberateLabel_6">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>20</y>
-        <width>471</width>
+        <width>461</width>
         <height>181</height>
        </rect>
       </property>
@@ -3345,7 +3345,7 @@ QPushButton:focus {
      <widget class="QLabel" name="caliberateLabel_7">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>20</y>
         <width>471</width>
         <height>131</height>
@@ -3656,7 +3656,7 @@ border: 1px solid green;</string>
      <widget class="QLabel" name="caliberateLabel_10">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>20</y>
         <width>471</width>
         <height>51</height>
@@ -3842,7 +3842,7 @@ QPushButton:focus {
      <widget class="QLabel" name="caliberateLabel_12">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>20</y>
         <width>471</width>
         <height>61</height>
@@ -3978,7 +3978,7 @@ QPushButton:focus {
      <widget class="QLabel" name="caliberateNozzleHeightLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>20</y>
         <width>471</width>
         <height>81</height>
@@ -4243,7 +4243,7 @@ QPushButton:focus {
      <widget class="QLabel" name="feedRateLabelControlPage_3">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>0</y>
         <width>481</width>
         <height>61</height>
@@ -4422,7 +4422,7 @@ QPushButton:default {
      <widget class="QLabel" name="printFromLabel">
       <property name="geometry">
        <rect>
-        <x>0</x>
+        <x>10</x>
         <y>80</y>
         <width>231</width>
         <height>31</height>
