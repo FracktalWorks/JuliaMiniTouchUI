@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5f3bfca3-6a62-46bf-a4a3-5a39cfeecc16" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Test2.ui" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Test2.ui" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py" afterPath="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/setup.py" afterPath="$PROJECT_DIR$/setup.py" />
     </list>
     <ignored path="Julia3GTouchUI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,29 +29,260 @@
       <file leaf-file-name="setup.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/setup.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1850">
-              <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
+            <state relative-caret-position="352">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="392">
+              <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+              <folding>
+                <element signature="e#15#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="1152" column="70" selection-start-line="1152" selection-start-column="70" selection-end-line="1152" selection-end-column="70" />
-              <folding />
+            <state relative-caret-position="533">
+              <caret line="1347" column="20" selection-start-line="1347" selection-start-column="20" selection-end-line="1347" selection-end-column="20" />
+              <folding>
+                <element signature="e#19#285#1" expanded="false" />
+                <element signature="e#800#2171#1" expanded="false" />
+                <element signature="e#2173#2253#0" expanded="false" />
+                <element signature="e#2461#2484#0" expanded="false" />
+                <element signature="e#2671#2971#0" expanded="false" />
+                <element signature="e#3045#3079#0" expanded="false" />
+                <element signature="e#3071#3079#0" expanded="false" />
+                <element signature="e#3107#3427#0" expanded="false" />
+                <element signature="e#3107#3173#1" expanded="false" />
+                <element signature="e#3302#3404#0" expanded="false" />
+                <element signature="e#3464#3800#0" expanded="false" />
+                <element signature="e#3503#3643#0" expanded="false" />
+                <element signature="e#3688#3800#0" expanded="false" />
+                <element signature="e#3832#3881#1" expanded="false" />
+                <element signature="e#4013#4136#0" expanded="false" />
+                <element signature="e#4061#4136#0" expanded="false" />
+                <element signature="e#4189#4312#0" expanded="false" />
+                <element signature="e#4237#4312#0" expanded="false" />
+                <element signature="e#4443#5156#0" expanded="false" />
+                <element signature="e#4496#4752#0" expanded="false" />
+                <element signature="e#4784#4827#0" expanded="false" />
+                <element signature="e#4871#5103#0" expanded="false" />
+                <element signature="e#5152#5156#0" expanded="false" />
+                <element signature="e#5205#5392#0" expanded="false" />
+                <element signature="e#5241#5279#0" expanded="false" />
+                <element signature="e#5333#5392#0" expanded="false" />
+                <element signature="e#5460#5634#1" expanded="false" />
+                <element signature="e#5679#6457#0" expanded="false" />
+                <element signature="e#6087#6189#0" expanded="false" />
+                <element signature="e#6493#7335#0" expanded="false" />
+                <element signature="e#6493#6586#1" expanded="false" />
+                <element signature="e#7368#7876#0" expanded="false" />
+                <element signature="e#7368#7691#1" expanded="false" />
+                <element signature="e#7914#17066#0" expanded="false" />
+                <element signature="e#7914#7978#1" expanded="false" />
+                <element signature="e#8955#8971#0" expanded="false" />
+                <element signature="e#17203#18501#0" expanded="false" />
+                <element signature="e#17461#18417#0" expanded="false" />
+                <element signature="e#17510#18417#0" expanded="false" />
+                <element signature="e#17583#17957#0" expanded="false" />
+                <element signature="e#18000#18417#0" expanded="false" />
+                <element signature="e#18557#20715#0" expanded="false" />
+                <element signature="e#18557#18641#1" expanded="false" />
+                <element signature="e#19157#19212#0" expanded="false" />
+                <element signature="e#19361#20570#0" expanded="false" />
+                <element signature="e#20660#20715#0" expanded="false" />
+                <element signature="e#20771#22878#0" expanded="false" />
+                <element signature="e#20771#20855#1" expanded="false" />
+                <element signature="e#21371#21426#0" expanded="false" />
+                <element signature="e#21575#22784#0" expanded="false" />
+                <element signature="e#22930#23126#0" expanded="false" />
+                <element signature="e#23180#23649#0" expanded="false" />
+                <element signature="e#23334#23445#0" expanded="false" />
+                <element signature="e#23490#23648#0" expanded="false" />
+                <element signature="e#23706#23828#0" expanded="false" />
+                <element signature="e#23872#24036#0" expanded="false" />
+                <element signature="e#24076#29032#0" expanded="false" />
+                <element signature="e#24181#24321#0" expanded="false" />
+                <element signature="e#24230#24321#0" expanded="false" />
+                <element signature="e#24362#26723#0" expanded="false" />
+                <element signature="e#25019#25074#0" expanded="false" />
+                <element signature="e#25260#26584#0" expanded="false" />
+                <element signature="e#26751#29032#0" expanded="false" />
+                <element signature="e#27362#27417#0" expanded="false" />
+                <element signature="e#27579#28903#0" expanded="false" />
+                <element signature="e#29178#32118#0" expanded="false" />
+                <element signature="e#29178#29254#1" expanded="false" />
+                <element signature="e#30122#31933#0" expanded="false" />
+                <element signature="e#32162#33142#0" expanded="false" />
+                <element signature="e#33189#33423#0" expanded="false" />
+                <element signature="e#33215#33338#0" expanded="false" />
+                <element signature="e#33460#34013#0" expanded="false" />
+                <element signature="e#33699#33802#0" expanded="false" />
+                <element signature="e#34055#34789#0" expanded="false" />
+                <element signature="e#34072#34738#0" expanded="false" />
+                <element signature="e#34827#34988#0" expanded="false" />
+                <element signature="e#35023#35815#0" expanded="false" />
+                <element signature="e#35023#35173#1" expanded="false" />
+                <element signature="e#35182#35197#0" expanded="false" />
+                <element signature="e#35948#36567#0" expanded="false" />
+                <element signature="e#36605#37221#0" expanded="false" />
+                <element signature="e#37261#37428#0" expanded="false" />
+                <element signature="e#37474#37565#0" expanded="false" />
+                <element signature="e#37703#39991#0" expanded="false" />
+                <element signature="e#37703#37810#1" expanded="false" />
+                <element signature="e#38393#38448#0" expanded="false" />
+                <element signature="e#38622#39874#0" expanded="false" />
+                <element signature="e#40032#40441#0" expanded="false" />
+                <element signature="e#40032#40122#1" expanded="false" />
+                <element signature="e#40187#40263#0" expanded="false" />
+                <element signature="e#40480#41179#0" expanded="false" />
+                <element signature="e#40480#40640#1" expanded="false" />
+                <element signature="e#40807#40875#0" expanded="false" />
+                <element signature="e#40979#41021#0" expanded="false" />
+                <element signature="e#41216#41906#0" expanded="false" />
+                <element signature="e#41216#41439#1" expanded="false" />
+                <element signature="e#41740#41760#0" expanded="false" />
+                <element signature="e#41951#42175#1" expanded="false" />
+                <element signature="e#42851#43076#0" expanded="false" />
+                <element signature="e#43195#43333#0" expanded="false" />
+                <element signature="e#43454#43580#0" expanded="false" />
+                <element signature="e#43683#43736#0" expanded="false" />
+                <element signature="e#43914#44020#1" expanded="false" />
+                <element signature="e#44165#44290#0" expanded="false" />
+                <element signature="e#45039#45933#0" expanded="false" />
+                <element signature="e#45039#45198#1" expanded="false" />
+                <element signature="e#45224#45841#0" expanded="false" />
+                <element signature="e#45870#45933#0" expanded="false" />
+                <element signature="e#45986#46487#0" expanded="false" />
+                <element signature="e#45986#46228#1" expanded="false" />
+                <element signature="e#46522#46766#0" expanded="false" />
+                <element signature="e#46522#46591#1" expanded="false" />
+                <element signature="e#46802#46897#1" expanded="false" />
+                <element signature="e#47275#50987#0" expanded="false" />
+                <element signature="e#47275#47676#1" expanded="false" />
+                <element signature="e#47735#48623#0" expanded="false" />
+                <element signature="e#47823#48621#0" expanded="false" />
+                <element signature="e#48707#49726#0" expanded="false" />
+                <element signature="e#48818#49724#0" expanded="false" />
+                <element signature="e#50165#50987#0" expanded="false" />
+                <element signature="e#50456#50909#0" expanded="false" />
+                <element signature="e#50742#50909#0" expanded="false" />
+                <element signature="e#51037#53506#0" expanded="false" />
+                <element signature="e#51037#51348#1" expanded="false" />
+                <element signature="e#51386#51708#0" expanded="false" />
+                <element signature="e#51736#53506#0" expanded="false" />
+                <element signature="e#52077#52272#0" expanded="false" />
+                <element signature="e#52409#52607#0" expanded="false" />
+                <element signature="e#52824#52996#1" expanded="false" />
+                <element signature="e#53067#53506#0" expanded="false" />
+                <element signature="e#53247#53376#0" expanded="false" />
+                <element signature="e#53552#56787#0" expanded="false" />
+                <element signature="e#53552#53828#1" expanded="false" />
+                <element signature="e#53970#54364#0" expanded="false" />
+                <element signature="e#54019#54362#0" expanded="false" />
+                <element signature="e#54418#54806#0" expanded="false" />
+                <element signature="e#54467#54804#0" expanded="false" />
+                <element signature="e#54861#55250#0" expanded="false" />
+                <element signature="e#54910#55248#0" expanded="false" />
+                <element signature="e#55311#55700#0" expanded="false" />
+                <element signature="e#55360#55698#0" expanded="false" />
+                <element signature="e#55710#55781#1" expanded="false" />
+                <element signature="e#55827#56119#0" expanded="false" />
+                <element signature="e#56167#56462#0" expanded="false" />
+                <element signature="e#56491#56787#0" expanded="false" />
+                <element signature="e#56912#57058#0" expanded="false" />
+                <element signature="e#57101#57853#0" expanded="false" />
+                <element signature="e#57101#57288#1" expanded="false" />
+                <element signature="e#57330#57479#0" expanded="false" />
+                <element signature="e#57518#57665#0" expanded="false" />
+                <element signature="e#57705#57853#0" expanded="false" />
+                <element signature="e#57893#58155#0" expanded="false" />
+                <element signature="e#57893#57948#1" expanded="false" />
+                <element signature="e#58292#58328#0" expanded="false" />
+                <element signature="e#58360#60630#0" expanded="false" />
+                <element signature="e#58360#58455#1" expanded="false" />
+                <element signature="e#59030#59085#0" expanded="false" />
+                <element signature="e#59259#60511#0" expanded="false" />
+                <element signature="e#60664#62965#0" expanded="false" />
+                <element signature="e#60664#60761#1" expanded="false" />
+                <element signature="e#61388#61443#0" expanded="false" />
+                <element signature="e#61593#62845#0" expanded="false" />
+                <element signature="e#63016#63271#0" expanded="false" />
+                <element signature="e#63016#63207#1" expanded="false" />
+                <element signature="e#63336#64132#0" expanded="false" />
+                <element signature="e#63336#63768#1" expanded="false" />
+                <element signature="e#63816#63996#0" expanded="false" />
+                <element signature="e#64031#64132#0" expanded="false" />
+                <element signature="e#64170#64271#0" expanded="false" />
+                <element signature="e#64302#64457#1" expanded="false" />
+                <element signature="e#65003#65127#1" expanded="false" />
+                <element signature="e#65778#66120#0" expanded="false" />
+                <element signature="e#65778#65925#1" expanded="false" />
+                <element signature="e#66156#66536#0" expanded="false" />
+                <element signature="e#66156#66259#1" expanded="false" />
+                <element signature="e#66572#66698#0" expanded="false" />
+                <element signature="e#66840#67128#0" expanded="false" />
+                <element signature="e#66840#66912#1" expanded="false" />
+                <element signature="e#67253#67650#0" expanded="false" />
+                <element signature="e#67692#71590#0" expanded="false" />
+                <element signature="e#67692#67820#1" expanded="false" />
+                <element signature="e#67854#68357#0" expanded="false" />
+                <element signature="e#68386#68407#0" expanded="false" />
+                <element signature="e#68457#68984#0" expanded="false" />
+                <element signature="e#68527#68567#0" expanded="false" />
+                <element signature="e#68614#68649#0" expanded="false" />
+                <element signature="e#68696#68732#0" expanded="false" />
+                <element signature="e#69039#71458#0" expanded="false" />
+                <element signature="e#69071#69165#0" expanded="false" />
+                <element signature="e#69207#69929#0" expanded="false" />
+                <element signature="e#69272#69929#0" expanded="false" />
+                <element signature="e#69974#71458#0" expanded="false" />
+                <element signature="e#70022#70459#0" expanded="false" />
+                <element signature="e#70083#70459#0" expanded="false" />
+                <element signature="e#70328#70459#0" expanded="false" />
+                <element signature="e#70954#71458#0" expanded="false" />
+                <element signature="e#70979#71156#0" expanded="false" />
+                <element signature="e#70994#71156#0" expanded="false" />
+                <element signature="e#71210#71387#0" expanded="false" />
+                <element signature="e#71225#71387#0" expanded="false" />
+                <element signature="e#71495#71499#0" expanded="false" />
+                <element signature="e#71537#71541#0" expanded="false" />
+                <element signature="e#71586#71590#0" expanded="false" />
+                <element signature="e#71638#73208#0" expanded="false" />
+                <element signature="e#71666#71735#0" expanded="false" />
+                <element signature="e#71764#73208#0" expanded="false" />
+                <element signature="e#71967#73126#0" expanded="false" />
+                <element signature="e#72040#73001#0" expanded="false" />
+                <element signature="e#72079#72187#0" expanded="false" />
+                <element signature="e#72586#72744#0" expanded="false" />
+                <element signature="e#72635#72744#0" expanded="false" />
+                <element signature="e#73038#73126#0" expanded="false" />
+                <element signature="e#73255#73827#0" expanded="false" />
+                <element signature="e#73301#73391#0" expanded="false" />
+                <element signature="e#73421#73827#0" expanded="false" />
+                <element signature="e#73881#75340#0" expanded="false" />
+                <element signature="e#73909#73956#0" expanded="false" />
+                <element signature="e#73985#74331#0" expanded="false" />
+                <element signature="e#74065#74249#0" expanded="false" />
+                <element signature="e#74098#74172#0" expanded="false" />
+                <element signature="e#74207#74249#0" expanded="false" />
+                <element signature="e#74370#74648#0" expanded="false" />
+                <element signature="e#74370#74490#1" expanded="false" />
+                <element signature="e#74679#75340#0" expanded="false" />
+                <element signature="e#74696#75300#0" expanded="false" />
+                <element signature="e#75374#75814#0" expanded="false" />
+                <element signature="e#75413#75482#0" expanded="false" />
+                <element signature="e#75584#75613#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -57,8 +290,8 @@
       <file leaf-file-name="mainGUI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="481" column="32" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+            <state relative-caret-position="22">
+              <caret line="339" column="84" selection-start-line="339" selection-start-column="79" selection-end-line="339" selection-end-column="84" />
               <folding />
             </state>
           </provider>
@@ -67,8 +300,8 @@
       <file leaf-file-name="octoprintAPI.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="625" column="66" selection-start-line="625" selection-start-column="66" selection-end-line="625" selection-end-column="66" />
+            <state relative-caret-position="3146">
+              <caret line="146" column="11" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -100,19 +333,20 @@
         <option value="$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
         <option value="$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
         <option value="$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
-        <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py" />
         <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py" />
+        <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py" />
         <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py" />
+        <option value="$PROJECT_DIR$/setup.py" />
+        <option value="$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2891" />
-    <option name="y" value="-11" />
-    <option name="width" value="2902" />
-    <option name="height" value="1597" />
+    <option name="x" value="2392" />
+    <option name="y" value="168" />
+    <option name="width" value="1216" />
+    <option name="height" value="1321" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -178,7 +412,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Julia3GTouchUI" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Vijay/Documents/GitHub/Julia3GTouchUI/octoprint_Julia3GTouchUI/mainGUI.py" />
   </component>
@@ -419,13 +653,12 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2891" y="-11" width="2902" height="1597" extended-state="6" />
+    <frame x="2392" y="168" width="1216" height="1321" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.115277775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.118530884" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3029433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -437,6 +670,7 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17370892" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3029433" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -478,37 +712,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2450">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14350">
-          <caret line="574" column="42" selection-start-line="574" selection-start-column="36" selection-end-line="574" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -517,53 +724,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15850">
-          <caret line="637" column="19" selection-start-line="637" selection-start-column="19" selection-end-line="637" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2450">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14350">
-          <caret line="574" column="42" selection-start-line="574" selection-start-column="36" selection-end-line="574" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -572,53 +738,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6250">
-          <caret line="570" column="40" selection-start-line="570" selection-start-column="40" selection-end-line="570" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15850">
-          <caret line="637" column="19" selection-start-line="637" selection-start-column="19" selection-end-line="637" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2450">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14350">
-          <caret line="574" column="42" selection-start-line="574" selection-start-column="36" selection-end-line="574" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,53 +752,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14250">
-          <caret line="570" column="40" selection-start-line="570" selection-start-column="40" selection-end-line="570" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15850">
-          <caret line="637" column="19" selection-start-line="637" selection-start-column="19" selection-end-line="637" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2450">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="14350">
-          <caret line="574" column="42" selection-start-line="574" selection-start-column="36" selection-end-line="574" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -682,37 +766,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2225">
-          <caret line="89" column="107" selection-start-line="89" selection-start-column="107" selection-end-line="89" selection-end-column="107" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4675">
-          <caret line="187" column="32" selection-start-line="187" selection-start-column="32" selection-end-line="187" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
     <entry file="file://$PROJECT_DIR$/mainGUI.py" />
     <entry file="file://$PROJECT_DIR$/Main.py" />
     <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/restartInterface.sh" />
@@ -738,70 +795,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/hurry/filesize/filesize.py" />
     <entry file="file://$USER_HOME$/Downloads/Main.py" />
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15625">
-          <caret line="628" column="36" selection-start-line="628" selection-start-column="36" selection-end-line="628" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="4415" column="16" selection-start-line="4415" selection-start-column="13" selection-end-line="4415" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="52" column="16" selection-start-line="51" selection-start-column="38" selection-end-line="52" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoardFunc.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-60">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="1827" column="0" selection-start-line="1827" selection-start-column="0" selection-end-line="1827" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1850">
-          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/octoprintAPI.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/mainGUI.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoardFunc.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/Main.py" />
+    <entry file="file://$PROJECT_DIR$/octoprint_Julia3GTouchUI/keyBoard.py" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -810,35 +811,274 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="77" column="0" selection-start-line="77" selection-start-column="0" selection-end-line="77" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/octoprintAPI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="625" column="66" selection-start-line="625" selection-start-column="66" selection-end-line="625" selection-end-column="66" />
+        <state relative-caret-position="3146">
+          <caret line="146" column="11" selection-start-line="146" selection-start-column="8" selection-end-line="146" selection-end-column="11" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/mainGUI.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="481" column="32" selection-start-line="481" selection-start-column="32" selection-end-line="481" selection-end-column="32" />
+        <state relative-caret-position="22">
+          <caret line="339" column="84" selection-start-line="339" selection-start-column="79" selection-end-line="339" selection-end-column="84" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="1152" column="70" selection-start-line="1152" selection-start-column="70" selection-end-line="1152" selection-end-column="70" />
+        <state relative-caret-position="533">
+          <caret line="1347" column="20" selection-start-line="1347" selection-start-column="20" selection-end-line="1347" selection-end-column="20" />
+          <folding>
+            <element signature="e#19#285#1" expanded="false" />
+            <element signature="e#800#2171#1" expanded="false" />
+            <element signature="e#2173#2253#0" expanded="false" />
+            <element signature="e#2461#2484#0" expanded="false" />
+            <element signature="e#2671#2971#0" expanded="false" />
+            <element signature="e#3045#3079#0" expanded="false" />
+            <element signature="e#3071#3079#0" expanded="false" />
+            <element signature="e#3107#3427#0" expanded="false" />
+            <element signature="e#3107#3173#1" expanded="false" />
+            <element signature="e#3302#3404#0" expanded="false" />
+            <element signature="e#3464#3800#0" expanded="false" />
+            <element signature="e#3503#3643#0" expanded="false" />
+            <element signature="e#3688#3800#0" expanded="false" />
+            <element signature="e#3832#3881#1" expanded="false" />
+            <element signature="e#4013#4136#0" expanded="false" />
+            <element signature="e#4061#4136#0" expanded="false" />
+            <element signature="e#4189#4312#0" expanded="false" />
+            <element signature="e#4237#4312#0" expanded="false" />
+            <element signature="e#4443#5156#0" expanded="false" />
+            <element signature="e#4496#4752#0" expanded="false" />
+            <element signature="e#4784#4827#0" expanded="false" />
+            <element signature="e#4871#5103#0" expanded="false" />
+            <element signature="e#5152#5156#0" expanded="false" />
+            <element signature="e#5205#5392#0" expanded="false" />
+            <element signature="e#5241#5279#0" expanded="false" />
+            <element signature="e#5333#5392#0" expanded="false" />
+            <element signature="e#5460#5634#1" expanded="false" />
+            <element signature="e#5679#6457#0" expanded="false" />
+            <element signature="e#6087#6189#0" expanded="false" />
+            <element signature="e#6493#7335#0" expanded="false" />
+            <element signature="e#6493#6586#1" expanded="false" />
+            <element signature="e#7368#7876#0" expanded="false" />
+            <element signature="e#7368#7691#1" expanded="false" />
+            <element signature="e#7914#17066#0" expanded="false" />
+            <element signature="e#7914#7978#1" expanded="false" />
+            <element signature="e#8955#8971#0" expanded="false" />
+            <element signature="e#17203#18501#0" expanded="false" />
+            <element signature="e#17461#18417#0" expanded="false" />
+            <element signature="e#17510#18417#0" expanded="false" />
+            <element signature="e#17583#17957#0" expanded="false" />
+            <element signature="e#18000#18417#0" expanded="false" />
+            <element signature="e#18557#20715#0" expanded="false" />
+            <element signature="e#18557#18641#1" expanded="false" />
+            <element signature="e#19157#19212#0" expanded="false" />
+            <element signature="e#19361#20570#0" expanded="false" />
+            <element signature="e#20660#20715#0" expanded="false" />
+            <element signature="e#20771#22878#0" expanded="false" />
+            <element signature="e#20771#20855#1" expanded="false" />
+            <element signature="e#21371#21426#0" expanded="false" />
+            <element signature="e#21575#22784#0" expanded="false" />
+            <element signature="e#22930#23126#0" expanded="false" />
+            <element signature="e#23180#23649#0" expanded="false" />
+            <element signature="e#23334#23445#0" expanded="false" />
+            <element signature="e#23490#23648#0" expanded="false" />
+            <element signature="e#23706#23828#0" expanded="false" />
+            <element signature="e#23872#24036#0" expanded="false" />
+            <element signature="e#24076#29032#0" expanded="false" />
+            <element signature="e#24181#24321#0" expanded="false" />
+            <element signature="e#24230#24321#0" expanded="false" />
+            <element signature="e#24362#26723#0" expanded="false" />
+            <element signature="e#25019#25074#0" expanded="false" />
+            <element signature="e#25260#26584#0" expanded="false" />
+            <element signature="e#26751#29032#0" expanded="false" />
+            <element signature="e#27362#27417#0" expanded="false" />
+            <element signature="e#27579#28903#0" expanded="false" />
+            <element signature="e#29178#32118#0" expanded="false" />
+            <element signature="e#29178#29254#1" expanded="false" />
+            <element signature="e#30122#31933#0" expanded="false" />
+            <element signature="e#32162#33142#0" expanded="false" />
+            <element signature="e#33189#33423#0" expanded="false" />
+            <element signature="e#33215#33338#0" expanded="false" />
+            <element signature="e#33460#34013#0" expanded="false" />
+            <element signature="e#33699#33802#0" expanded="false" />
+            <element signature="e#34055#34789#0" expanded="false" />
+            <element signature="e#34072#34738#0" expanded="false" />
+            <element signature="e#34827#34988#0" expanded="false" />
+            <element signature="e#35023#35815#0" expanded="false" />
+            <element signature="e#35023#35173#1" expanded="false" />
+            <element signature="e#35182#35197#0" expanded="false" />
+            <element signature="e#35948#36567#0" expanded="false" />
+            <element signature="e#36605#37221#0" expanded="false" />
+            <element signature="e#37261#37428#0" expanded="false" />
+            <element signature="e#37474#37565#0" expanded="false" />
+            <element signature="e#37703#39991#0" expanded="false" />
+            <element signature="e#37703#37810#1" expanded="false" />
+            <element signature="e#38393#38448#0" expanded="false" />
+            <element signature="e#38622#39874#0" expanded="false" />
+            <element signature="e#40032#40441#0" expanded="false" />
+            <element signature="e#40032#40122#1" expanded="false" />
+            <element signature="e#40187#40263#0" expanded="false" />
+            <element signature="e#40480#41179#0" expanded="false" />
+            <element signature="e#40480#40640#1" expanded="false" />
+            <element signature="e#40807#40875#0" expanded="false" />
+            <element signature="e#40979#41021#0" expanded="false" />
+            <element signature="e#41216#41906#0" expanded="false" />
+            <element signature="e#41216#41439#1" expanded="false" />
+            <element signature="e#41740#41760#0" expanded="false" />
+            <element signature="e#41951#42175#1" expanded="false" />
+            <element signature="e#42851#43076#0" expanded="false" />
+            <element signature="e#43195#43333#0" expanded="false" />
+            <element signature="e#43454#43580#0" expanded="false" />
+            <element signature="e#43683#43736#0" expanded="false" />
+            <element signature="e#43914#44020#1" expanded="false" />
+            <element signature="e#44165#44290#0" expanded="false" />
+            <element signature="e#45039#45933#0" expanded="false" />
+            <element signature="e#45039#45198#1" expanded="false" />
+            <element signature="e#45224#45841#0" expanded="false" />
+            <element signature="e#45870#45933#0" expanded="false" />
+            <element signature="e#45986#46487#0" expanded="false" />
+            <element signature="e#45986#46228#1" expanded="false" />
+            <element signature="e#46522#46766#0" expanded="false" />
+            <element signature="e#46522#46591#1" expanded="false" />
+            <element signature="e#46802#46897#1" expanded="false" />
+            <element signature="e#47275#50987#0" expanded="false" />
+            <element signature="e#47275#47676#1" expanded="false" />
+            <element signature="e#47735#48623#0" expanded="false" />
+            <element signature="e#47823#48621#0" expanded="false" />
+            <element signature="e#48707#49726#0" expanded="false" />
+            <element signature="e#48818#49724#0" expanded="false" />
+            <element signature="e#50165#50987#0" expanded="false" />
+            <element signature="e#50456#50909#0" expanded="false" />
+            <element signature="e#50742#50909#0" expanded="false" />
+            <element signature="e#51037#53506#0" expanded="false" />
+            <element signature="e#51037#51348#1" expanded="false" />
+            <element signature="e#51386#51708#0" expanded="false" />
+            <element signature="e#51736#53506#0" expanded="false" />
+            <element signature="e#52077#52272#0" expanded="false" />
+            <element signature="e#52409#52607#0" expanded="false" />
+            <element signature="e#52824#52996#1" expanded="false" />
+            <element signature="e#53067#53506#0" expanded="false" />
+            <element signature="e#53247#53376#0" expanded="false" />
+            <element signature="e#53552#56787#0" expanded="false" />
+            <element signature="e#53552#53828#1" expanded="false" />
+            <element signature="e#53970#54364#0" expanded="false" />
+            <element signature="e#54019#54362#0" expanded="false" />
+            <element signature="e#54418#54806#0" expanded="false" />
+            <element signature="e#54467#54804#0" expanded="false" />
+            <element signature="e#54861#55250#0" expanded="false" />
+            <element signature="e#54910#55248#0" expanded="false" />
+            <element signature="e#55311#55700#0" expanded="false" />
+            <element signature="e#55360#55698#0" expanded="false" />
+            <element signature="e#55710#55781#1" expanded="false" />
+            <element signature="e#55827#56119#0" expanded="false" />
+            <element signature="e#56167#56462#0" expanded="false" />
+            <element signature="e#56491#56787#0" expanded="false" />
+            <element signature="e#56912#57058#0" expanded="false" />
+            <element signature="e#57101#57853#0" expanded="false" />
+            <element signature="e#57101#57288#1" expanded="false" />
+            <element signature="e#57330#57479#0" expanded="false" />
+            <element signature="e#57518#57665#0" expanded="false" />
+            <element signature="e#57705#57853#0" expanded="false" />
+            <element signature="e#57893#58155#0" expanded="false" />
+            <element signature="e#57893#57948#1" expanded="false" />
+            <element signature="e#58292#58328#0" expanded="false" />
+            <element signature="e#58360#60630#0" expanded="false" />
+            <element signature="e#58360#58455#1" expanded="false" />
+            <element signature="e#59030#59085#0" expanded="false" />
+            <element signature="e#59259#60511#0" expanded="false" />
+            <element signature="e#60664#62965#0" expanded="false" />
+            <element signature="e#60664#60761#1" expanded="false" />
+            <element signature="e#61388#61443#0" expanded="false" />
+            <element signature="e#61593#62845#0" expanded="false" />
+            <element signature="e#63016#63271#0" expanded="false" />
+            <element signature="e#63016#63207#1" expanded="false" />
+            <element signature="e#63336#64132#0" expanded="false" />
+            <element signature="e#63336#63768#1" expanded="false" />
+            <element signature="e#63816#63996#0" expanded="false" />
+            <element signature="e#64031#64132#0" expanded="false" />
+            <element signature="e#64170#64271#0" expanded="false" />
+            <element signature="e#64302#64457#1" expanded="false" />
+            <element signature="e#65003#65127#1" expanded="false" />
+            <element signature="e#65778#66120#0" expanded="false" />
+            <element signature="e#65778#65925#1" expanded="false" />
+            <element signature="e#66156#66536#0" expanded="false" />
+            <element signature="e#66156#66259#1" expanded="false" />
+            <element signature="e#66572#66698#0" expanded="false" />
+            <element signature="e#66840#67128#0" expanded="false" />
+            <element signature="e#66840#66912#1" expanded="false" />
+            <element signature="e#67253#67650#0" expanded="false" />
+            <element signature="e#67692#71590#0" expanded="false" />
+            <element signature="e#67692#67820#1" expanded="false" />
+            <element signature="e#67854#68357#0" expanded="false" />
+            <element signature="e#68386#68407#0" expanded="false" />
+            <element signature="e#68457#68984#0" expanded="false" />
+            <element signature="e#68527#68567#0" expanded="false" />
+            <element signature="e#68614#68649#0" expanded="false" />
+            <element signature="e#68696#68732#0" expanded="false" />
+            <element signature="e#69039#71458#0" expanded="false" />
+            <element signature="e#69071#69165#0" expanded="false" />
+            <element signature="e#69207#69929#0" expanded="false" />
+            <element signature="e#69272#69929#0" expanded="false" />
+            <element signature="e#69974#71458#0" expanded="false" />
+            <element signature="e#70022#70459#0" expanded="false" />
+            <element signature="e#70083#70459#0" expanded="false" />
+            <element signature="e#70328#70459#0" expanded="false" />
+            <element signature="e#70954#71458#0" expanded="false" />
+            <element signature="e#70979#71156#0" expanded="false" />
+            <element signature="e#70994#71156#0" expanded="false" />
+            <element signature="e#71210#71387#0" expanded="false" />
+            <element signature="e#71225#71387#0" expanded="false" />
+            <element signature="e#71495#71499#0" expanded="false" />
+            <element signature="e#71537#71541#0" expanded="false" />
+            <element signature="e#71586#71590#0" expanded="false" />
+            <element signature="e#71638#73208#0" expanded="false" />
+            <element signature="e#71666#71735#0" expanded="false" />
+            <element signature="e#71764#73208#0" expanded="false" />
+            <element signature="e#71967#73126#0" expanded="false" />
+            <element signature="e#72040#73001#0" expanded="false" />
+            <element signature="e#72079#72187#0" expanded="false" />
+            <element signature="e#72586#72744#0" expanded="false" />
+            <element signature="e#72635#72744#0" expanded="false" />
+            <element signature="e#73038#73126#0" expanded="false" />
+            <element signature="e#73255#73827#0" expanded="false" />
+            <element signature="e#73301#73391#0" expanded="false" />
+            <element signature="e#73421#73827#0" expanded="false" />
+            <element signature="e#73881#75340#0" expanded="false" />
+            <element signature="e#73909#73956#0" expanded="false" />
+            <element signature="e#73985#74331#0" expanded="false" />
+            <element signature="e#74065#74249#0" expanded="false" />
+            <element signature="e#74098#74172#0" expanded="false" />
+            <element signature="e#74207#74249#0" expanded="false" />
+            <element signature="e#74370#74648#0" expanded="false" />
+            <element signature="e#74370#74490#1" expanded="false" />
+            <element signature="e#74679#75340#0" expanded="false" />
+            <element signature="e#74696#75300#0" expanded="false" />
+            <element signature="e#75374#75814#0" expanded="false" />
+            <element signature="e#75413#75482#0" expanded="false" />
+            <element signature="e#75584#75613#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/octoprint_JuliaMiniTouchUI/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="58" column="37" selection-start-line="58" selection-start-column="37" selection-end-line="58" selection-end-column="37" />
+          <folding>
+            <element signature="e#15#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

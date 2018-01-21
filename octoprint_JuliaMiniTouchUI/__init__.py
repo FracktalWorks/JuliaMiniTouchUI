@@ -74,7 +74,7 @@ class JuliaMiniTouchUI(octoprint.plugin.StartupPlugin):
 
 
 __plugin_name__ = "JuliaMiniTouchUI"
-__plugin_version__ = "1.0.3"
+__plugin_version__ = "1.0.4"
 
 
 def __plugin_load__():

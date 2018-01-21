@@ -1343,7 +1343,7 @@ class MainUiClass(QtGui.QMainWindow, mainGUI.Ui_MainWindow):
         self.stackedWidget.setCurrentWidget(self.step1Page)
         octopiclient.gcode(command='M206 Z0') # Sets Z home offset to 0
         octopiclient.home(['x', 'y', 'z'])
-        octopiclient.jog(x=90, y=90, z=15, absolute=True, speed=1500)
+        octopiclient.jog(x=90, y=90, z=15, absolute=True, speed=800)
 
     def step2(self):
         '''
